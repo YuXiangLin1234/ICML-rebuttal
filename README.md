@@ -14,12 +14,18 @@
 
 #### τ = 4
 <p float="left">
+	<div>
 	<h5>AST</h5>
 	<img src="https://github.com/YuXiangLin1234/ICML-rebuttal/blob/main/interpretability/top-5_activated/interpretability-4.0-ast-esc50.jpg" width="32%">
+	</div>
+	<div>
 	<h5>BEATs-finetuned</h5>
 	<img src="https://github.com/YuXiangLin1234/ICML-rebuttal/blob/main/interpretability/top-5_activated/interpretability-4.0-beats-esc50-unfreeze.jpg" width="32%">
+	</div>
+	<div>
 	<h5>BEATs-frozen</h5>
 	<img src="https://github.com/YuXiangLin1234/ICML-rebuttal/blob/main/interpretability/top-5_activated/interpretability-4.0-beats-esc50.jpg" width="32%">
+	</div>
 </p>
 
 #### τ = 5
